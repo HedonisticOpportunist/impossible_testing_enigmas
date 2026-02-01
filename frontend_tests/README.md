@@ -5,7 +5,7 @@
 You can run the tests in the following manner:
 
 - Ensure you have _Cypress_ installed.
-- Navigate into the **UITests** folders using the `cd` command.
+- Navigate into the **frontend_tests** folder using the `cd` command.
 - Run the `npx cypress run -- headless` command.
 
 For other commands, please see the Cypress [documentation](https://docs.cypress.io/app/get-started/install-cypress).
@@ -25,3 +25,4 @@ The following projects also used _Cypress_ for testing:
 
 - Cypress [documentation](https://docs.cypress.io/app/get-started/install-cypress).
 - [StackOverflow](https://stackoverflow.com/questions) for various table-related queries.
+
