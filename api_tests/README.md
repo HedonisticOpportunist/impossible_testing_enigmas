@@ -17,8 +17,9 @@ Previous experience, despite minimal exposure to API testing.
 Previous projects that used _supertest_:
 
 - [Space Cats Backend Tests](https://github.com/HedonisticOpportunist/Space-Cats/tree/main/packages/backend/tests).
-- [Meow Doo Backend Tests](https://github.com/HedonisticOpportunist/Meow-Doo/tree/main/backend/tests).
+- [Meow-Doo Backend Tests](https://github.com/HedonisticOpportunist/Meow-Doo/tree/main/backend/tests).
 
 ## Resources
 
 [supertest Documentation](https://www.npmjs.com/package/supertest)
+
