@@ -1,3 +1,7 @@
 # Impossible Testing Enigmas
 
-Backend and frontend tests for two free applications. 
+Backend and frontend tests for two free applications.
+
+Please navigate to the respective folders for the documentation and related materials. 
+
+In place of anything intelligent to say, please look at that vintage cat picture (not mine!): 
