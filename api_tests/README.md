@@ -22,4 +22,3 @@ Previous projects that used _supertest_:
 ## Resources
 
 [supertest Documentation](https://www.npmjs.com/package/supertest)
-
