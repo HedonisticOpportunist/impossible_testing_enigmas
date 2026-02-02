@@ -1,6 +1,6 @@
 # Impossible Testing Enigmas
 
-Backend and frontend tests for two free applications.
+Backend and frontend tests for two publicly available applications.
 
 Please navigate to the respective folders for the documentation and related materials. 
 
